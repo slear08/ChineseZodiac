@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chinese Zodiac</string>
+    <string name="chinese_zodiac">CHINESE ZODIAC</string>
+    <string name="view_zodiac">View Zodiac</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="zodiacImage">TODO</string>
+    <string name="back">BACK</string>
+    <string name="ZODIAC" />
+    <string name="CHINESEZODIAC" />
+    <string name="chinese_zodiac1">CHINESE ZODIAC</string>
+</resources>

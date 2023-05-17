@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
-
+//test
 public class ZodiacResult extends AppCompatActivity {
 
     TextView zodiacString;
